@@ -1,0 +1,15 @@
+! DOCTYPE htl>
+<html>
+     <head>
+         <style>
+             #bord{
+	     boarder: 10px solid blue;
+             height: 100px;
+             width:150px;
+              }
+       
+             .border{
+             boarder: 10px solid blue;
+             height: 150px;
+             width:150px;
+              }
